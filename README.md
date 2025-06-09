@@ -5,6 +5,7 @@ simple application made for the purpose of displaying images for artists to copy
 
 
 Just needs python, with pillow, pygame, and screeninfo installed.
+- install with "pip install -r requirements.txt"
 
 
 Pulls images from a user-selected folder, moves them to a "used" directory when completed.
